@@ -16,7 +16,7 @@
     <header>MathReach - Free Math Tutoring</header>
     <section>
         <h2>Welcome to MathReach</h2>
-        <p>We provide free math tutoring for students who need help in various topics. Whether you need assistance with algebra, calculus, or geometry, we are here to help!</p>
+        <p>We provide free math tutoring for students who need help in various topics. Whether you need assistance with algebra, geometry, or any other basic math, we are here to help!</p>
         <a href="#signup" class="cta-button">Sign Up for Free Tutoring</a>
     </section>
     <section id="signup">
